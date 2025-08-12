@@ -60,11 +60,6 @@ This project supports **UN SDG Goal 9 – Industry, Innovation & Infrastructure*
 
 ---
 
-## 📸 Screenshots (Optional)
-
-*(Add screenshots here of: input form, output screen, JoSAA comparison, AI suggestions, etc.)*
-
----
 
 ## 🧪 Prototype Testing Results
 
